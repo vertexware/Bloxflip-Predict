@@ -1,0 +1,19 @@
+Run The Bloxflip Predictor.exe
+
+The Bin Folder Contains All The Modueles That Run The Predictor To Make It 100% Accuracy
+----------------------------------------------------------------------------------------------------------------------------------
+Mines:
+
+The Dll Uses Bloxflip Api To Detect All The Safe Spots Like BloxLime
+----------------------------------------------------------------------------------------------------------------------------------
+Crash:
+
+Crash Uses A Private Code That Is Used By Star Predictor V2 To Make Crash 100% Accurate
+----------------------------------------------------------------------------------------------------------------------------------
+Towers:
+
+Towers Uses The Same Bloxflip Api As Mines TO Detect All Safe Spots
+----------------------------------------------------------------------------------------------------------------------------------
+Roulette:
+
+Roulette Predictor Uses A Calcuator That Gets The Average To Get Its Prediction
